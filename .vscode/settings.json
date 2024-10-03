@@ -1,0 +1,12 @@
+{
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "explicit",
+		"source.fixAll.eslint": "explicit"
+	},
+	"prettier.configPath": ".prettierrc",
+	"prettier.endOfLine": "auto",
+	"prettier.enable": true,
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "none",
+}
