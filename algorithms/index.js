@@ -1,6 +1,4 @@
-import { log } from './utils.js'
-import { getDegreeFn, getTupleFn } from './two-pointers.js'
-import './sliding-window/sliding-window.js'
+import { getDegreeFn, getTupleFn } from './two-pointers/two-pointers.js'
 
-log(getDegreeFn)
-log(getTupleFn)
+console.log(getDegreeFn)
+console.log(getTupleFn)

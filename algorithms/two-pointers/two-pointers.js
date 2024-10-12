@@ -1,5 +1,3 @@
-import { log } from './utils.js'
-
 /**
  * Finds all pairs of numbers in the given array that sum up to the given target value.
  * Uses the two-pointer technique with a sorted array, with the left pointer starting at the
